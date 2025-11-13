@@ -9,3 +9,5 @@ Ultralytics pip:
 ```
 pip install ultralytics
 ```
+
+[Learn more about YOLOv8](https://docs.ultralytics.com/ru/models/yolov8/)
