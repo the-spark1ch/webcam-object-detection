@@ -1,4 +1,7 @@
 # Webcam Object Detection
-Program capable of identifying objects in your webcam stream based on powerful Ultralytics YOLOv8 model.
+The powerful model from Ultralytics is able to identify many objects. This program uses the stream from your webcam, on which objects will be identified
 
-Powerful model from Ultralytics can identify many objects. This program uses the stream from your webcam
+OpenCV pip:
+```
+pip install opencv-python
+```
