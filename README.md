@@ -5,3 +5,7 @@ OpenCV pip:
 ```
 pip install opencv-python
 ```
+Ultralytics pip:
+```
+pip install ultralytics
+```
